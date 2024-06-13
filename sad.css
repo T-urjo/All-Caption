@@ -1,0 +1,33 @@
+body {
+    background-image: url('sad.jpg');
+}
+.sadhed {
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+.container {
+    color: #0fe507;
+    align-content: center;
+    height: auto;
+    border-radius: 6px;
+    background-color: #062b41;
+    height: auto;
+    padding: 20px;
+}
+.qustion {
+    color: rgb(251, 255, 0);
+}
+.inbengla {
+    color: #08cfee;
+    text-decoration: underline;
+}
+.answer {
+    color: #ffffff;
+}
+.home {
+    background-color: #0fe507;
+    color: aqua;
+    font-size: 30px;
+    text-align: center;
+}
